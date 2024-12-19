@@ -1,4 +1,4 @@
-package com.qaScript;
+package interviewCodingPrep;
 
 /*
  * Sudoku Background

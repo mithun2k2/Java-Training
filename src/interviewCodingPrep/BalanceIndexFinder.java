@@ -1,4 +1,4 @@
-package com.qaScript;
+package interviewCodingPrep;
 
 /*
  * You are going to be given an array of integers.

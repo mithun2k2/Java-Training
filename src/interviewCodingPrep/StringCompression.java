@@ -1,6 +1,4 @@
-package com.qaScript;
-
-import java.sql.SQLOutput;
+package interviewCodingPrep;
 
 /**
  * Implement a method which performs basic string compression by counting sequences of repeating characters.

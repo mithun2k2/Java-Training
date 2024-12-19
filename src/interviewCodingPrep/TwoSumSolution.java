@@ -1,4 +1,4 @@
-package com.qaScript;
+package interviewCodingPrep;
 
 import java.util.Arrays;
 

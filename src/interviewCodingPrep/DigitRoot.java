@@ -1,4 +1,4 @@
-package com.qaScript;
+package interviewCodingPrep;
 
 /*
  * Digital root is the recursive sum of all the digits in a number.

@@ -1,4 +1,4 @@
-package com.qaScript;
+package interviewCodingPrep;
 
 public class FibonacciWhileLoop {
     public void fibonacciFinder(){

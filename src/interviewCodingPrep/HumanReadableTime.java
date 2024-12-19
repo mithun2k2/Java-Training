@@ -1,4 +1,4 @@
-package com.qaScript;
+package interviewCodingPrep;
 
 /*
  * Write a function, which takes a non-negative
