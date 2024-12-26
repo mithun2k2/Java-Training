@@ -38,10 +38,10 @@ public class MissingNumberFinder {
     public static void main(String[]args){
      int[]arr = {1, 2, 3, 5};
      int[]arr1 = {8,7,9,5,4,3,2,1};
-     int[]arr3 = {2,4,6,5,7,9,8,3};
+     int[]arr2 = {2,4,6,5,7,9,8,3};
      long findMissingNumber =findMissingNumber(arr);
      System.out.println("The missing number of the array is: " + findMissingNumber(arr));
      System.out.println("The missing number of the array is: " + findMissingNumber(arr1));
-     System.out.println("The missing number of the array is: " + findMissingNumber(arr3));
+     System.out.println("The missing number of the array is: " + findMissingNumber(arr2));
     }
 }
