@@ -24,6 +24,8 @@ bin/
 
 ### VS Code ###
 .vscode/
+mithun
+mitun.pub
 
 ### Mac OS ###
 .DS_Store
