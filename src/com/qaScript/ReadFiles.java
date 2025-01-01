@@ -17,7 +17,7 @@ public class ReadFiles {
 
         } catch (FileNotFoundException e) {
             System.out.println("Files not found " + e.getMessage());
-            ;
+
         } catch (IOException e) {
             System.out.println("Error reading file " + e.getMessage());
 

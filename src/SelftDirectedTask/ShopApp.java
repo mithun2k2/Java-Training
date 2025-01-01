@@ -62,7 +62,7 @@ public class ShopApp {
                     sc.close();
                     return;
                 default:
-                    System.out.println(" Invalid option. Pleae try again.");
+                    System.out.println(" Invalid option. Please try again.");
             }
 
         }
